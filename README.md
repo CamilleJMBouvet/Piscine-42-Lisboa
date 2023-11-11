@@ -1,10 +1,6 @@
+<img src="https://i.postimg.cc/ncRJ31N0/Fractol-piscine.png"></img>
 
-# My Piscine @ 42 Lisboa
-
-Here's a summary of my Piscine journey :)
-
-Score: 6547 - Level: 7
-
+<p align="center">A summary of my Piscine journey</p>
 
 ## About 42
 >Founded in Paris in 2013, today 42 has more than 15.000 students in 25 countries and is recognized as one of the best coding schools worldwide.
