@@ -24,15 +24,15 @@ ___________________
 ## Exercise Sheets
 | Sheet  | Detail | Grade  |
 | ------------- | ------------- |-------------|
-| Shell 00  | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| <br>ex05: **OK** \| ex06: **OK** \| ex07: **OK** \| ex08: **OK** \| ex09: KO  | 87% ✅ |
-| C 00 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| <br>ex05: **OK** \| ex06: **OK** \| ex07: KO \| ~~ex08~~  | 70% ✅ |
-| C 01 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| <br>ex05: **OK** \| ex06: **OK** \| ex07: **OK** \| ex08: **OK** |100% ✅ |
-| C 02 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| <br>ex05: **OK** \| ex06: **OK** \|ex07:**OK** \| ex08: **OK** \| ex09: **OK** \| <br>~~ex10~~ \| ~~ex11~~ \| ~~ex12~~ | 65% ✅ |
+| Shell 00  | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| ex05: **OK** \| <br>ex06: **OK** \| ex07: **OK** \| ex08: **OK** \| ex09: KO  | 87% ✅ |
+| C 00 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| ex05: **OK** \| <br>ex06: **OK** \| ex07: KO \| ~~ex08~~  | 70% ✅ |
+| C 01 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| ex05: **OK** \| <br>ex06: **OK** \| ex07: **OK** \| ex08: **OK** |100% ✅ |
+| C 02 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| ex05: **OK** \| <br>ex06: **OK** \|ex07:**OK** \| ex08: **OK** \| ex09: **OK** \| ~~ex10~~ \| ~~ex11~~ \| ~~ex12~~ | 65% ✅ |
 | C 03 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: Does not compile \| <br>ex05: KO | 50% ✅ |
 | C 04 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ~~ex04~~ \| ~~ex05~~ | 70% ✅ |
-| C 05 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| <br>ex05: **OK** \| ex06: Does not compile \| ex07: KO \| ~~ex08~~ | 50% ✅ |
+| C 05 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| ex05: **OK** \| <br>ex06: Does not compile \| ex07: KO \| ~~ex08~~ | 50% ✅ |
 | C 06 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** | 100% ✅ |
-| C 07 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: KO \| ~~ex04~~ \| <br>~~ex05~~ | 45% ❌ |
+| C 07 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: KO \| ~~ex04~~ \| ~~ex05~~ | 45% ❌ |
 
 
 ___________________
