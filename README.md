@@ -1,6 +1,6 @@
-<img src="https://i.postimg.cc/ncRJ31N0/Fractol-piscine.png"></img>
+<img src="https://i.postimg.cc/s2yR5fxb/piscine-results1.png"></img>
 
-<p align="center">A summary of my Piscine journey</p>
+<p align="center">Here's summary of my Piscine journey</p>
 
 ## About 42
 >Founded in Paris in 2013, today 42 has more than 15.000 students in 25 countries and is recognized as one of the best coding schools worldwide.
@@ -16,25 +16,22 @@ Source: https://www.42lisboa.com/en/faq/
 ___________________
 ## Exam Results
 
-C Piscine Exam 00 - 30/100 ✔️
-
-C Piscine Exam 01 - 60/100 ✔️
-
-C Piscine Exam 02 - 80/100 ✔️
-
-C Piscine Final Exam  - 66/100 ✔️
+- C Piscine Exam **00** - 30/100 ✅
+- C Piscine Exam **01** - 60/100 ✅
+- C Piscine Exam **02** - 80/100 ✅
+- C Piscine **Final Exam**  - 66/100 ✅
 ___________________
 ## Exercise Sheets
 | Sheet  | Detail | Grade  |
 | ------------- | ------------- |-------------|
-| Shell 00  | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| ex05: **OK** \| ex06: **OK** \| ex07: **OK** \| ex08: **OK** \| ex09: KO  | 87% ✔️ |
-| C 00 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| ex05: **OK** \| ex06: **OK** \| ex07: KO \| ~~ex08~~  | 70% ✔️ |
-| C 01 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| ex05: **OK** \| ex06: **OK** \| ex07: **OK** \| ex08: **OK** |100% ✔️ |
-| C 02 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| ex05: **OK** \| ex06: **OK** \|ex07:**OK** \| ex08: **OK** \| ex09: **OK** \| ~~ex10~~ \| ~~ex11~~ \| ~~ex12~~ | 65% ✔️ |
-| C 03 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: Does not compile \| ex05: KO | 50% ✔️ |
-| C 04 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ~~ex04~~ \| ~~ex05~~ | 70% ✔️ |
-| C 05 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| ex05: **OK** \| ex06: Does not compile \| ex07: KO \| ~~ex08~~ | 50% ✔️ |
-| C 06 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** | 100% ✔️ |
+| Shell 00  | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| ex05: **OK** \| ex06: **OK** \| ex07: **OK** \| ex08: **OK** \| ex09: KO  | 87% ✅ |
+| C 00 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| ex05: **OK** \| ex06: **OK** \| ex07: KO \| ~~ex08~~  | 70% ✅ |
+| C 01 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| ex05: **OK** \| ex06: **OK** \| ex07: **OK** \| ex08: **OK** |100% ✅ |
+| C 02 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| ex05: **OK** \| ex06: **OK** \|ex07:**OK** \| ex08: **OK** \| ex09: **OK** \| ~~ex10~~ \| ~~ex11~~ \| ~~ex12~~ | 65% ✅ |
+| C 03 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: Does not compile \| ex05: KO | 50% ✅ |
+| C 04 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ~~ex04~~ \| ~~ex05~~ | 70% ✅ |
+| C 05 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** \| ex04: **OK** \| ex05: **OK** \| ex06: Does not compile \| ex07: KO \| ~~ex08~~ | 50% ✅ |
+| C 06 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: **OK** | 100% ✅ |
 | C 07 | ex00: **OK** \| ex01: **OK** \| ex02: **OK** \| ex03: KO \| ~~ex04~~ \| ~~ex05~~ | 45% ❌ |
 
 
